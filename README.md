@@ -55,4 +55,3 @@ O *SENTIX* foi projetado para ser simples e intuitivo. Ao rodar o sistema, o usu
 
 |- Sistema_SENTIX_CLI.py (Sistema desenvolvido em Interface em Linha de Comando)
 
-|- Base_Tweets.xlsx (Base de Dados que foi utilizada pra desenvolver o modelo)
