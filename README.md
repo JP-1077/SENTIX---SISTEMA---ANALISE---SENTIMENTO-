@@ -1,5 +1,7 @@
 #  🌐 **SENTIX - Um Sistema de Análise de Sentimento**
 
+![Logo Sentix](Sentix.png)
+
 ## **Introdução**
 
 🌟 Bem - vindo ao SENTIX, um sistema CLI de análise de sentimentos desenvolvido para processar textos e classificar suas emoções como positivo e negativo! Este projeto segue uma abordagem baseada em Machine Learning e Processamento de Linguagem Natural (NLP).
